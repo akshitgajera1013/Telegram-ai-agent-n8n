@@ -1,5 +1,9 @@
 # 🤖 Telegram AI Agent using n8n
 
+Telegram AI Agent
+
+n8n • Mistral AI • Tavily • Telegram • Render
+
 An intelligent AI-powered Telegram chatbot built with **n8n**, **Mistral AI**, and **Tavily Search**.
 
 The bot can:
