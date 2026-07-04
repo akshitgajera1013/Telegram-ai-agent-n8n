@@ -1,0 +1,17 @@
+.env
+
+*.db
+
+database.sqlite
+
+*.log
+
+node_modules/
+
+.n8n/
+
+.DS_Store
+
+.vscode/
+
+.idea/
