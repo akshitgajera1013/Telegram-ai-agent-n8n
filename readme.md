@@ -107,16 +107,20 @@ Activate the workflow.
 
 ---
 
-# Screenshots
+## 📸 Screenshots
 
-## Workflow
+### n8n Workflow
 
-(Add screenshot)
-
-## Telegram Chat
-
-(Add screenshot)
+<p align="center">
+  <img src="screenshots/1.png" alt="n8n Workflow" width="900">
+</p>
 
 ---
+
+### Telegram AI Chat
+
+<p align="center">
+  <img src="screenshots/2.png" alt="Telegram AI Chat" width="350">
+</p>
 
 
