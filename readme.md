@@ -62,7 +62,7 @@ The agent receives a message via the **Telegram Trigger**, reasons over it using
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Telegram-ai-agent-n8n.git
+git clone https://github.com/akshitgajera1013/Telegram-ai-agent-n8n.git
 cd Telegram-ai-agent-n8n
 ```
 
